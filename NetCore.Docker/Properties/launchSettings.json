@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NetCore.Docker": {
+      "commandName": "Project",
+      "commandLineArgs": "5"
+    }
+  }
+}
